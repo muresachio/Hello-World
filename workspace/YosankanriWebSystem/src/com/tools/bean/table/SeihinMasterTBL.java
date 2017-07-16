@@ -1,5 +1,8 @@
 package com.tools.bean.table;
 
+/**
+ * 製品マスターテーブル
+**/
 public class SeihinMasterTBL {
 	private String _id = null;
 	private String _name = null;
